@@ -12,7 +12,7 @@ Soy estudiante de la **Universidad Politécnica de Victoria**, cursando la carre
 ## Tecnologías y Herramientas
 <div>
   <h3>Lenguajes:</h3>
-  <p align="center">
+  <p align="">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=java,php,js,dart" />
     </a>
@@ -20,7 +20,7 @@ Soy estudiante de la **Universidad Politécnica de Victoria**, cursando la carre
 </div>
 <div>
   <h3>Frameworks y Librerías:</h3>
-  <p align="center">
+  <p align="">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=firebase,flutter" />
     </a>
@@ -28,7 +28,7 @@ Soy estudiante de la **Universidad Politécnica de Victoria**, cursando la carre
 </div>
 <div>
   <h3>Bases de datos:</h3>
-  <p align="center">
+  <p align="">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=mysql,firebase" />
     </a>
@@ -36,7 +36,7 @@ Soy estudiante de la **Universidad Politécnica de Victoria**, cursando la carre
 </div>
 <div>
   <h3>Herramientas:</h3>
-  <p align="center">
+  <p align="">
     <a href="https://skillicons.dev">
       <img src="https://skillicons.dev/icons?i=git,figma" />
     </a>
