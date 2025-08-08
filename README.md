@@ -4,9 +4,9 @@ Soy estudiante de la **Universidad Politécnica de Victoria**, cursando la carre
 
 # Mis intereses
 
-- **Desarrollo móvil**: Trabajo con Flutter y Firebase en aplicaciones móviles.
-- **Bases de datos**: Tengo experiencia en MySQL, SQLite y Firestore.
-- **Desarrollo web**: Conocimientos básicos en HTML, CSS, JavaScript y frameworks como React.
+- **Desarrollo móvil**: Conocimientos basicos con Dart y Flutter.
+- **Bases de datos**: Experiencia en MySQL y Firestore.
+- **Desarrollo web**: Conocimientos básicos en HTML, CSS, JavaScript y php.
 - **Diseño UX/UI**: Creación de prototipos Lo-fi y Hi-fi usando Figma, enfocándome en la usabilidad y la experiencia del usuario.
 
 ## Tecnologías y Herramientas
