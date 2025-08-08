@@ -10,13 +10,13 @@ Soy estudiante de la **Universidad Politécnica de Victoria**, cursando la carre
 
 ## Tecnologías y Herramientas
 Lenguajes: 
-[Dart, Java, JavaScript, SQL](https://skillicons.dev/icons?i=java,php,js,dart)
+https://skillicons.dev/icons?i=java,php,js,dart
 Frameworks y Librerías: 
-[Flutter, Firebase, React](https://skillicons.dev/icons?i=firebase,flutter)
+https://skillicons.dev/icons?i=firebase,flutter
 Bases de datos: 
-[MySQL, Firebase Firestore](https://skillicons.dev/icons?i=mysql,firebase)
+https://skillicons.dev/icons?i=mysql,firebase
 Herramientas: 
-[Git, Figma](https://skillicons.dev/icons?i=git,figma)
+https://skillicons.dev/icons?i=git,figma
 
 ## Contacto
 
