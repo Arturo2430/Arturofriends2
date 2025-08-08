@@ -10,7 +10,7 @@ Soy estudiante de la **Universidad Politécnica de Victoria**, cursando la carre
 
 ## Tecnologías y Herramientas
 Lenguajes: 
-https://skillicons.dev/icons?i=java,php,js,dart
+[![My Skills](https://skillicons.dev/icons?i=java,php,js,dart)](https://skillicons.dev)
 Frameworks y Librerías: 
 https://skillicons.dev/icons?i=firebase,flutter
 Bases de datos: 
